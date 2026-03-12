@@ -1,10 +1,12 @@
 # Hi there! I'm Ahmed 👋
-### 📊 Data Analyst | Python • SQL • Business Intelligence
+### 📊 Data Analyst | Excel • SQL • Python • Power Query & BI • DAX
 
-I’m a motivated **Data Analyst** who enjoys exploring data and transforming it into meaningful insights.  
-With strong skills in **Python, SQL, and BI tools**, I focus on cleaning, analyzing, and visualizing datasets to support smart decision-making.
-
-I also have experience in **web technologies, WordPress, and Linux**, which helps me present data clearly and collaborate in technical teams.
+Data Analyst with a strong technical background in Python and a solid understanding of data-
+driven problem solving. Skilled in analyzing, cleaning, and visualizing data using Excel,
+SQL, Python, and BI tools to support decision-making. Possess supporting experience in web
+technologies, WordPress, and Linux systems, enabling effective data presentation and
+technical collaboration. Actively developing analytical and business intelligence skills
+through continuous learning and practical projects.
 
 ---
 
