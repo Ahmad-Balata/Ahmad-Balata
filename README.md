@@ -48,4 +48,4 @@ through continuous learning and practical projects.
 - Email: **ahmadbalata01@gmail.com**
 - LinkedIn: [Ahmed Balata](https://www.linkedin.com/in/ahmad-balata-25768524a/)
 - WhatsApp: https://wa.me/970597440199
-- Telegram: https://t.me/AhmadBalata⁩
+- Telegram: https://t.me/970597440199⁩
