@@ -1,5 +1,6 @@
 # Hi there! I'm Ahmad 👋
-### 📊 Data Analyst | Excel • SQL • Python • Power Query & BI • DAX
+### 📊 Data Analyst | Excel | SQL | Python | Power Query & BI | DAX | Turning Data into Business Insights
+
 
 Data Analyst with a strong technical background in Python and a solid understanding of data-
 driven problem solving. Skilled in analyzing, cleaning, and visualizing data using Excel,
